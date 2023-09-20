@@ -1,0 +1,591 @@
+   ??-- this is the icons like facebook etc --??
+
+
+ <section class="site-section">
+        <div class="container">
+          <div class="row">
+            <div class="col" data-aos="fade-in" data-aos-delay="0">
+              <img src="images/clients-05.svg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col" data-aos="fade-in" data-aos-delay="100">
+              <img src="images/clients-02.svg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col" data-aos="fade-in" data-aos-delay="200">
+              <img src="images/clients-03.svg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col" data-aos="fade-in" data-aos-delay="300">
+              <img src="images/clients-01.svg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col" data-aos="fade-in" data-aos-delay="400">
+              <img src="images/clients-04.svg" alt="Image" class="img-fluid">
+            </div>
+          </div>
+        </div>
+      </section>
+
+??-- ends here --??
+
+!-- A DIV BOX --!
+
+<div class="col-md-6 col-lg-4">
+  <a href="images/img_10.jpg" class="media-1" data-fancybox="gallery">
+    <img src="images/img_10.jpg" alt="Image" class="img-fluid">
+    <div class="media-1-content">
+      <h2>Battle Creek</h2>
+      <span class="category">Web Application</span>
+    </div>
+  </a>
+</div>
+<div class="col-md-6 col-lg-4">
+  <a href="images/img_11.jpg" class="media-1" data-fancybox="gallery">
+    <img src="images/img_11.jpg" alt="Image" class="img-fluid">
+    <div class="media-1-content">
+      <h2>Nouri</h2>
+      <span class="category">Branding</span>
+    </div>
+  </a>
+</div>
+<div class="col-md-6 col-lg-4">
+  <a href="images/img_12.jpg" class="media-1" data-fancybox="gallery">
+    <img src="images/img_12.jpg" alt="Image" class="img-fluid">
+    <div class="media-1-content">
+      <h2>Fiber Cloth</h2>
+      <span class="category">Website</span>
+    </div>
+  </a>
+</div>
+
+
+</div>
+</div>
+
+
+
+!-- Start of section (Delete) --!
+      <section class="section ft-feature-1">
+        <div class="container">
+          <div class="row align-items-stretch">
+            <div class="col-12 w-100 ft-feature-1-content">
+              <div class="row align-items-center">
+                <div class="col-lg-5"  data-jarallax-element="50">
+
+                  <img src="images/img_13.jpg" alt="Image" class="img-fluid mb-4 mb-lg-0">
+
+                </div>
+                <div class="col-lg-3 ml-auto" data-jarallax-element="-50">
+                  <div class="mb-5">
+                    <h3 class="d-flex align-items-center"><span class="icon icon-beach_access mr-2"></span><span>Strategy</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam nesciunt.</p>
+                    <p><a href="#">Read More</a></p>
+                  </div>
+
+                  <div>
+                    <h3 class="d-flex align-items-center"><span class="icon icon-build mr-2"></span><span>Web Development</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam nesciunt.</p>
+                    <p><a href="#">Read More</a></p>
+                  </div>
+
+                </div>
+                <div class="col-lg-3">
+                  <div class="mb-5">
+                    <h3 class="d-flex align-items-center"><span class="icon icon-format_paint mr-2"></span><span>Art Direction</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam nesciunt.</p>
+                    <p><a href="#">Read More</a></p>
+                  </div>
+
+                  <div>
+                    <h3 class="d-flex align-items-center"><span class="icon icon-question_answer mr-2"></span><span>Copywriting</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam nesciunt.</p>
+                    <p><a href="#">Read More</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+!-- End of Section (Delete)--!
+
+
+
+!-- Start Of Testimonials (Delete) --!
+      <section class="site-section testimonial-wrap">
+        <div class="container mb-5">
+          <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+              <h2 class="site-section-heading text-center">Testimonials</h2>
+            </div>
+          </div>
+        </div>
+        <div class="slide-one-item home-slider owl-carousel">
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+              </blockquote>
+
+              <figure class="mb-4 d-block align-items-center justify-content-center">
+                <div><img src="images/person_3.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p>John Smith</p>
+              </figure>
+            </div>
+          </div>
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+              </blockquote>
+              <figure class="mb-4 d-block align-items-center justify-content-center">
+                <div><img src="images/person_2.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p>Christine Aguilar</p>
+              </figure>
+
+            </div>
+          </div>
+
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+              </blockquote>
+              <figure class="mb-4 d-block align-items-center justify-content-center">
+                <div><img src="images/person_4.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p>Robert Spears</p>
+              </figure>
+
+
+            </div>
+          </div>
+
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+              </blockquote>
+              <figure class="mb-4 d-block align-items-center justify-content-center">
+                <div><img src="images/person_5.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p>Bruce Rogers</p>
+              </figure>
+
+            </div>
+          </div>
+
+        </div>
+      </section>
+!-- Start Of Testimonials (Delete) --!
+
+
+//-- blog section (Delete) --//
+      <section class="site-section" id="blog-section">
+        <div class="container">
+          <div class="row justify-content-center mb-5">
+            <div class="col-md-8 text-center">
+              <h2 class="site-section-heading text-center">Blog</h2>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+              <div class="h-entry">
+                <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+                <h2 class="font-size-regular"><a href="#">Create Beautiful Website In Less Than An Hour</a></h2>
+                <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+                <p><a href="#">Continue Reading...</a></p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+              <div class="h-entry">
+                <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+                <h2 class="font-size-regular"><a href="#">Create Beautiful Website In Less Than An Hour</a></h2>
+                <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+                <p><a href="#">Continue Reading...</a></p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+              <div class="h-entry">
+                <img src="images/img_3.jpg" alt="Image" class="img-fluid">
+                <h2 class="font-size-regular"><a href="#">Create Beautiful Website In Less Than An Hour</a></h2>
+                <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+                <p><a href="#">Continue Reading...</a></p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+!--End Of secTion  (Delete)--!
+
+
+
+
+
+
+
+!-- CIRCLE STUFF --!
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.min.js"></script>
+
+
+<!-- this the the Service SECTION 
+        <div class="container">
+          
+          <div class="row align-items-stretch">
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+              <div class="unit-4 d-flex">
+                <div>
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                  <div class="card js">
+                  <div class="circle">
+                  <div class="bar"></div>
+                  <div class="box"><span></span></div>
+                  </div>
+                  <div class="text">JavaScript</div>
+                  </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card react">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">React JS</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="200">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card html">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">Html</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="300">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card css">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">CSS</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card bootstrap">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">BootStrap</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card design">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">UI/UX</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card node">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">Node</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card database">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">DataBases</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card api">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">API</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card github">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">GitHub</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card hyper terminal">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">Hyper Terminal</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="unit-4 d-flex">
+                <div>
+
+                  <div class="skillcontainer">
+                   <div class="wrapper">
+
+                   <div class="card express">
+                     <div class="circle">
+                       <div class="bar"></div>
+                       <div class="box"><span></span></div>
+                     </div>
+                     <div class="text">Express&EJS</div>
+                   </div>
+                  </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+
+
+          </div>
+        </div>
+       -->
+<!-- SERVICE SECTION ENDS HERE -->
+
+
+
+
+/* Old Circle Styling 
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+  .skillcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    padding-bottom:20px;
+
+    height: 100vh;
+  }
+  .skillcontainer .wrapper{
+    width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .skillcontainer .wrapper .card{
+    background: #bf9393;
+    width: calc(33% - 20px);
+    height: 200px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    box-shadow: 0px 10px 15px rgba(0,0,0,0.1);
+  }
+  .wrapper .card:hover{
+    background-color: #21325E;
+    color: black;
+    transform: translateY(-14px);
+    transition: background 1s, color 1s, transform 0.5s;
+  }
+  .skillcontainer .wrapper .card .circle{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    cursor: default;
+  }
+  .skillcontainer .card .circle .box,
+  .skillcontainer .card .circle .box span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+  .skillcontainer .card .circle .box{
+    height: 100%;
+    width: 100%;
+    background: #fff;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0.8);
+    transition: all 0.2s;
+  }
+  .skillcontainer .card .circle:hover .box{
+    transform: translate(-50%, -50%) scale(0.91);
+  }
+  .skillcontainer .card .circle .box span,
+  .skillcontainer .wrapper .card .text{
+    background: -webkit-linear-gradient(left, #a445b2, #fa4299);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .skillcontainer .circle .box span{
+    font-size: 38px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transform: translate(-45%, -45%);
+    transition: all 0.1s;
+  }
+  .skillcontainer .card .circle:hover .box span{
+    transform: translate(-45%, -45%) scale(1.09);
+  }
+  .skillcontainer .card .text{
+    font-size: 20px;
+    font-weight: 600;
+  }
+  @media(max-width: 753px){
+    .skillcontainer .wrapper{
+      max-width: 700px;
+    }
+    .skillcontainer  .wrapper .card{
+      width: calc(50% - 20px);
+      margin-bottom: 20px;
+    }
+  }
+  @media(max-width: 505px){
+    .skillcontainer .wrapper{
+      max-width: 500px;
+    }
+    .skillcontainer .wrapper .card{
+      width: 100%;
+    }
+  }
